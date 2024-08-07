@@ -32,7 +32,7 @@ llm = ChatGoogleGenerativeAI(
 st.title("Langchain demo wit Google gen api")
 input_text=st.text_input("Search the topic you want")
 
-output_parser=StrOutputParser()
+output_parser=StrOutputParser() # convert into string output format.
 chain=prompt|llm|output_parser
 if input_text:
     st.write(chain.invoke({'question':input_text}))
