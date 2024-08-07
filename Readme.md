@@ -32,12 +32,11 @@ Created an essay writer using FastAPI as the API. Implemented LangSmith for trac
 ---
 ---
 ## 📚  3 : RAG Pipeline
-- **Full Rag pipeline** 
+- **Full Rag pipeline** : 
+[Read more](RAG/Ragpipeline.md)
+
 - **Load,source,Embeddings and Vector Databases**
-
-
-    
-
+[Read more](RAG/Loadsourceembedvecdatabase.md)
 
 
 > 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
