@@ -20,16 +20,25 @@ The session culminates in an exciting, practical project: building an **Equity R
 **[🎥 Watch the Full Video](https://www.youtube.com/watch?v=d4yCWBGFCEs)**
 
 ---
-## 📚  1: Introduction to Generative AI
+## 📚  2 : Langchain
+Created an essay writer using FastAPI as the API. Implemented LangSmith for tracing. Used Streamlit for the client interface and Google API Key for integration.
 
-Welcome to the first day of our Generative AI course! Today's session covers the foundational aspects of Generative AI, providing an insightful overview of key concepts including:
 
-- **Large Language Models (LLM)**
-- **Embeddings and Vector Databases**
-- **Retrieval Augmented Generation**
-- **Langchain Toolset**
 
-The session culminates in an exciting, practical project: building an **Equity Research Tool** to apply the concepts learned.
+> 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
+
+**[🎥 Watch the Full Video]("https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
+
+---
+---
+## 📚  3 : RAG Pipeline
+- **Full Rag pipeline** 
+- **Load,source,Embeddings and Vector Databases**
+
+
+    
+
+
 
 > 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
 
