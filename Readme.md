@@ -26,8 +26,8 @@ Created an essay writer using FastAPI as the API. Implemented LangSmith for trac
 
 
 > 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
+**[🎥 Watch the Full Video](https://www.youtube.com/watch?v=d4yCWBGFCEs)**
 
-**[🎥 Watch the Full Video]("https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
 
 ---
 ---
