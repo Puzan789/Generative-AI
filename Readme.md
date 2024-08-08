@@ -64,7 +64,21 @@ Created an essay writer using FastAPI as the API. Implemented LangSmith for trac
 **[🎥 Watch the Full Video](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
 
 ---
-## 📚  5 :Rag Project using opensource LLM
+## 📚  6 :Rag Project using opensource LLM
+- **Project Implementation** : 
+[Read more](Rag%20project%20using%20open%20source%20llm/Readme.md)
+
+
+- **Rag Advanced** : 
+[Read more](Rag%20project%20using%20open%20source%20llm/Ragadvanced.md)
+
+
+> 🔑 Note: The video uses an Ollama, but practical implementations in this course utilize a Google Generative AI fr embeddings and Groq key for opensource.
+
+**[🎥 Watch the Full Video](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
+
+---
+## 📚  7: Langchain with hugging face
 - **Project Implementation** : 
 [Read more](Rag%20project%20using%20open%20source%20llm/Readme.md)
 
