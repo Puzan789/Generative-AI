@@ -33,10 +33,10 @@ Created an essay writer using FastAPI as the API. Implemented LangSmith for trac
 ---
 ## 📚  3 : RAG Pipeline
 - **Full Rag pipeline** : 
-[Read more](2.RAG/Ragpipeline.md)
+[Read more](RAG/Ragpipeline.md)
 
 - **Load,source,Embeddings and Vector Databases**
-[Read more](2.RAG/Loadsourceembedvecdatabase.md)
+[Read more](RAG/Loadsourceembedvecdatabase.md)
 
 
 > 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
@@ -92,4 +92,24 @@ Created an essay writer using FastAPI as the API. Implemented LangSmith for trac
 **[🎥 Watch the Full Video](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
 
 ---
+## 📚  8:  RAG using object box
+- **Project Implementation** : 
+
+
+
+> 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
+
+**[🎥 Watch the Full Video](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
+
+## 📚  9:  HYBRID RAG SEARCH with pinecone 
+- **Project Implementation** : 
+[Read more](HybridRagsearch(pinecone)/readme.md)
+
+
+
+> 🔑 Note: The video uses an OpenAI key, but practical implementations in this course utilize a Google Generative AI key.
+
+**[🎥 Watch the Full Video](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ)**
+
+
 
