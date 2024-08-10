@@ -3,3 +3,8 @@
 
 # Ignore the venv directory in the root
 /venv/
+
+**/objectbox
+
+**/Uscensusdata
+
