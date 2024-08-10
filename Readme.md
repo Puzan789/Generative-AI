@@ -3,6 +3,40 @@
 This course follows the [Generative AI Roadmap](https://github.com/genieincodebottle/generative-ai/blob/main/GenAI_Roadmap.md).
 
 ---
+## ✅ Key Learnings from the Generative AI Course
+
+- [x] **Fundamentals of Generative AI**
+  - [x] Understanding Large Language Models (LLM)
+  - [x] Working with Embeddings and Vector Databases
+  - [x] Exploring Retrieval Augmented Generation (RAG)
+  - [x] Introduction to the Langchain Framework
+  - [x] Practical Project: Building an Equity Research Tool
+
+- [x] **Advanced Langchain Applications**
+  - [x] Developing an Essay Writer with FastAPI
+  - [x] Implementing Tracing with LangSmith
+  - [x] Creating User Interfaces with Streamlit
+  - [x] Integrating Google API for Enhanced Functionality
+
+- [x] **Constructing a RAG Pipeline**
+  - [x] Designing a Comprehensive RAG Pipeline
+  - [x] Managing Data: Loading, Sourcing, and Embedding with Vector Databases
+
+- [x] **Building RAG-based Q&A Systems**
+  - [x] Implementing Q&A Chains and Retriever Mechanisms
+
+- [x] **Multi-source Data Integration in RAG**
+  - [x] Developing a Multi-source Search Agent for RAG
+
+- [x] **Projects with Open Source LLMs**
+  - [x] Executing RAG Projects using Open Source Language Models
+  - [x] Delving into Advanced RAG Techniques
+
+- [x] **Integrating Langchain with Hugging Face**
+
+- [x] **Utilizing Object Box for RAG**
+
+- [x] **Implementing Hybrid RAG Search with Pinecone**
 
 ## 📚  1: Introduction to Generative AI
 
